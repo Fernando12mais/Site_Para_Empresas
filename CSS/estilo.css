@@ -1,0 +1,158 @@
+
+
+#logo{
+		position:relative;
+		font-size: 60pt;
+		color: white;
+		background-color: green;
+		border-radius: 300px;
+		width: 350px;
+		text-align: center;
+		top: 300px;
+		left: 12%;
+	}
+
+	.btn{
+		background-color: transparent;
+		text-align: center;
+		height: 50px;
+		position: relative;
+		left: 45%;
+		bottom: 10%;
+
+	}
+
+	.texto-botao{
+
+		font-size: 20pt;
+		color: #FFEBCD;
+		font-weight: 500;
+	}
+
+	.btn-group{
+		position: relative;
+		left: 44%;
+		bottom: 10%;
+	}
+
+
+
+	#plano_de_fundo{
+		width: 1730px;
+		height: 1080px;
+		background-repeat: no-repeat;
+		background-size:100% ;
+		background-image: url("../plano_de_fundo.png") ;	
+	}
+
+	#foto1{
+		margin-left: 5%;
+		width: 600px;
+		height: 650px;
+		position: relative;
+		bottom: 200px;
+		
+
+	}
+
+	#texto1{
+
+		position: relative;
+		text-align: center;
+		bottom: 800px;
+		line-height: 25px;
+		word-spacing: 5px;
+
+
+
+	}
+
+	.corpo1{margin-left: 50%;
+		width: 400px;
+
+		
+  		text-align: justify;
+  		letter-spacing: 3px;
+  		word-spacing: 1px;
+
+
+
+	}
+
+	#foto2{
+		position: relative;
+		top: 180px;
+		width: 1730px;
+		height: 1080px;
+	}
+
+	.cor_do_canto{
+		
+		
+		width: 100px;
+		height: 600px;
+		background-color: #FFEBCD;
+		
+	}
+
+	#cor_da_direita{
+
+		position: relative;
+		left: 1630px;
+		
+	}
+
+	#cor_da_esquerda{
+		position: relative;
+		top: 300px;
+
+
+	}
+
+	#foto3{position: relative;
+		bottom: 300px;
+
+
+		width: 1400px;
+		height: 600px;
+	}
+
+	#seta1{
+		position: relative;
+		left: -700px;
+		top: 600px;
+		border-radius: 30px;
+		width: 40px;
+		
+	}
+
+	#seta2{
+		position: relative;
+		top: 600px;
+		left: 700px;
+		border-radius: 30px;
+		width: 40px;
+
+	}
+	.numero_de_fotos{
+		width: 60px;
+		height: 20px;
+		background-color:blue ;
+		
+
+	}
+
+	#marcador1{
+		position: relative;
+		left: 750px;
+		top: 2320px;
+		opacity: 1;
+
+	}
+	#marcador2{
+		position: relative;
+		left: 850px;
+		top: 2300px;
+		opacity: 0.3;
+
+	}
